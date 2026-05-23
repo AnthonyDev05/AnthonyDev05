@@ -1,4 +1,5 @@
 ## Hi there 👋
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **AnthonyDev05/AnthonyDev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
