@@ -1,4 +1,4 @@
-## Código, prática e evolução 🚀 there 👋
+## Código, prática e evolução 🚀
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <!--
